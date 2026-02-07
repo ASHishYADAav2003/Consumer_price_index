@@ -5,6 +5,6 @@ scikit-learn
 matplotlib
 seaborn
 xgboost
-linear regression
-random forest
+linear-regression
+random-forest
 
